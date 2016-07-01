@@ -1,0 +1,9 @@
+stackoverflow.com
+jsfiddle.net
+codepen.io
+css-tricks.com
+https://validator.w3.org/
+getbootstrap.com
+balsamiq.com
+https://www.google.com/fonts
+getbootstrap.com/components
